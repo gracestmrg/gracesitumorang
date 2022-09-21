@@ -10,14 +10,14 @@ a {
 }
 
 .medsos {
-    padding: 5px 0;
-    background-color: #37E6F7;
+    padding: 10px 0;
+    background-color: #008000;
 }
 
 .medsos ul li {
     display: inline-block;
-    color: #fff;
-    margin-right: 10px;
+    color: #000000;
+    margin-right: 15px;
 }
 
 .container {
@@ -36,7 +36,7 @@ header {}
 header h1 {
     float: left;
     padding: 15px 0px;
-    color: darkorange;
+    color: #FFC300;
 }
 
 header ul {
@@ -53,13 +53,13 @@ header ul li a {
 }
 
 header ul li a:hover {
-    background-color: #37E6F7;
-    color: #fff;
+    background-color: #808080;
+    color: #000000;
 }
 
 .active {
-    background-color: #37E6F7;
-    color: #fff;
+    background-color: #808080;
+    color: #000000;
 }
 
 .banner {
@@ -98,22 +98,22 @@ section {
 section h3 {
     text-align: center;
     padding: 20px 0;
-    color: #37E6F7;
+    color: #FFC300;
 }
 
 .about p {
-    color: #666;
+    color: #808080;
     word-spacing: 2px;
     line-height: 25px;
 }
 
 .contact {
-    background-color: #B3FAE9;
+    background-color: #808080;
 }
 
 footer {
     padding: 30px 0;
-    background-color: #AAF9EF;
-    color: #FFC300;
+    background-color: #808080;
+    color: #000000;
     text-align: center;
 }
