@@ -65,7 +65,7 @@ header ul li a:hover {
 .banner {
     height: 380vh;
     border: #fff;
-background-image: url(../img/banner.jpg);
+    background-image: url(../img/banner.jpg);
     background-size: cover;
     position: relative;
     display: flex;
@@ -79,7 +79,6 @@ background-image: url(../img/banner.jpg);
     position: absolute;
     top: 0;
     left: 0;
-    right: 0;
     bottom: 0;
     background-color: rgba(55, 230, 247, .6);
 }
