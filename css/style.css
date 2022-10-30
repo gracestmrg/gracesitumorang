@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin-top: 0;
-    font-family: sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 a {
@@ -11,7 +11,7 @@ a {
 
 .medsos {
     padding: 10px 0;
-    background-color: #008000;
+    background-color: #808080;
 }
 
 .medsos ul li {
@@ -63,7 +63,7 @@ header ul li a:hover {
 }
 
 .banner {
-    height: 380vh;
+    height: 100vh;
     border: #fff;
     background-image: url(../img/banner.jpg);
     background-size: cover;
@@ -84,10 +84,10 @@ header ul li a:hover {
 }
 
 .banner h2 {
-    color: #fff;
+    color: #000000;
     z-index: 1;
     padding: 20px 25px;
-    border: 3px solid #fff;
+    border: 3px solid #000000;
 }
 
 section {
